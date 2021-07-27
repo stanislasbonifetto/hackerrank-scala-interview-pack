@@ -1,3 +1,5 @@
+package salesbymatch
+
 import java.io.PrintWriter
 import scala.io.StdIn
 

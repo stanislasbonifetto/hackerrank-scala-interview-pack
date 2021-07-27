@@ -1,3 +1,5 @@
+package salesbymatch
+
 import org.scalatest.{FunSuite, Matchers}
 
 class SalesByMatchTest extends FunSuite with Matchers {
